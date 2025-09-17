@@ -47,7 +47,7 @@ Ada juga sebagian besar penumpang yang bepergian sendirian (`family_size = 1`).
 
 ### 3. Heatmap Survival Rate: Class × Is Alone
 
-![Heatmap Class vs IsAlone](images/class_isalone_heatmap.png)
+![Heatmap Class vs IsAlone](https://github.com/c14250136-cmd/korelasi-antara-kelas-penumpang-dan-status-kesendirian-is_alone-/blob/main/Screenshot%202025-09-17%20082323.png)
 
 * **First Class + Bersama Keluarga (is\_alone=0)** → survival rate mendekati **70%**.
 * **Third Class + Sendirian (is\_alone=1)** → survival rate sangat rendah, di bawah **20%**.
