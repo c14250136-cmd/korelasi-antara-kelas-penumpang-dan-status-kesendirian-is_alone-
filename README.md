@@ -64,4 +64,7 @@ Ada juga sebagian besar penumpang yang bepergian sendirian (`family_size = 1`).
 
 ---
 
-Mau aku bikinin sekalian **versi code Colab final** (langsung save plot ke `images/` biar bisa dipakai di README ini)?
+LAMPIRAN : 
+FILE RAW : https://colab.research.google.com/drive/1-8XgpdgzRZ3yL4nKs0G46cTKtPL1TybI#scrollTo=btn0BuO-Fcus
+FILE HASIL MODIFIKASI PENAMBAHAN VARIABEL : https://colab.research.google.com/drive/1tR_G5_v8mrXpNr3sUX-w-JRlUlMT-3Qs?usp=sharing
+FILE KORELASI ANTARA KELAS DAN FAMILY SIZE UNTUK SURVIVAL RATE : https://colab.research.google.com/drive/1ujGPT00tbCR7DmtoAljaFuiVtJ7fAATg?usp=sharing
