@@ -37,7 +37,7 @@ Ada juga sebagian besar penumpang yang bepergian sendirian (`family_size = 1`).
 
 ### 2. Survival Rate Berdasarkan Kelas & Status Kesendirian
 
-![Barplot Class vs IsAlone](images/class_isalone_barplot.png)
+![Barplot Class vs IsAlone](https://github.com/c14250136-cmd/korelasi-antara-kelas-penumpang-dan-status-kesendirian-is_alone-/blob/main/Screenshot%202025-09-17%20082302.png?raw=true)
 
 * Penumpang **kelas 1** memiliki survival rate tertinggi, baik sendirian maupun bersama keluarga.
 * Penumpang **kelas 3** yang sendirian memiliki survival rate paling rendah.
