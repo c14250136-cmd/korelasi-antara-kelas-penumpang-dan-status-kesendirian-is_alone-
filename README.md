@@ -28,7 +28,7 @@ Dari dataset asli Titanic (Seaborn), ditambahkan dua variabel baru:
 
 ### 1. Distribusi Family Size
 
-![Distribusi Family Size](images/family_size.png)
+![Distribusi Family Size](https://github.com/c14250136-cmd/korelasi-antara-kelas-penumpang-dan-status-kesendirian-is_alone-/blob/main/Screenshot%202025-09-17%20082243.png?raw=true)
 
 Mayoritas penumpang memiliki `family_size` kecil (1–3 orang).
 Ada juga sebagian besar penumpang yang bepergian sendirian (`family_size = 1`).
